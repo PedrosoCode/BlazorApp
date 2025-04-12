@@ -1,1 +1,0 @@
-C:\gits\acti\back\BlazorApp\BlazorApp.Client\obj\Debug\net9.0\staticwebassets.build.json

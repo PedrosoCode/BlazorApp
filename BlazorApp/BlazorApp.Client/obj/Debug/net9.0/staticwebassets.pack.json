@@ -1,7 +1,7 @@
 {
   "Files": [
     {
-      "Id": "C:\\gits\\acti\\back\\BlazorApp\\BlazorApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\gits\\acti\\frontend\\BlazorApp\\BlazorApp.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
