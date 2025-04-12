@@ -1,0 +1,2 @@
+C:\gits\acti\back\BlazorApp\BlazorApp\wwwroot\app.css
+wwwroot\app.css
